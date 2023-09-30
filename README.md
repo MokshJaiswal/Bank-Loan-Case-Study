@@ -33,4 +33,5 @@ The understanding if the dataset is the most crucial aspect of data analysis. A 
 - Important notes: https://docs.google.com/document/d/1TdqP7emp5-xb_uhD7tOD75NFFmrssul6/edit?usp=sharing&ouid=105366244794451882696&rtpof=true&sd=true
 
 # 🎦 Presentation link
-https://drive.google.com/file/d/13ln0PU5fEvEMlrhXi2yCQ1jrcNFSsKl9/view?usp=sharing
+- 🎞 Slideshow: https://drive.google.com/file/d/13ln0PU5fEvEMlrhXi2yCQ1jrcNFSsKl9/view?usp=sharing
+- 📝 Presentation: https://docs.google.com/presentation/d/1fBhtCTuykHNEouxEd95jQYZs-bEGXCdr/edit?usp=sharing&ouid=105366244794451882696&rtpof=true&sd=true
