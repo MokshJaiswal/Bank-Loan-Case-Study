@@ -26,6 +26,11 @@ The dataset we have worked with contains information about loan applications. It
 - MS Excel
 - Microsoft Powerpoint(For Presentation: The link of the presentation is given at hte bottom)
 
+# 🍳 Insights
+- 📚 Data Handling: https://docs.google.com/spreadsheets/d/1GqST5Y1IisjSXIr59UFnsk2FOmI9LXOt/edit?usp=sharing&ouid=105366244794451882696&rtpof=true&sd=true
+- 📉📈 Correlation: https://docs.google.com/spreadsheets/d/1dO0Ryp90PfUE6mVpTTJhCTmKnz7HmFpb/edit?usp=sharing&ouid=105366244794451882696&rtpof=true&sd=true
+- 📊 Visualization(3 files): https://drive.google.com/drive/folders/1Uyu4Xx4GaEsjaATElUi0UZNPZG4AdZLe?usp=sharing
+
 # 📰 Dataset
 The understanding if the dataset is the most crucial aspect of data analysis. A data dictionary of column description is also given below.
 - dataset: https://drive.google.com/file/d/1CKROhmWvicAAwgYNR6KzJa4twLqdaLbi/view?usp=sharing
